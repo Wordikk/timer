@@ -1,1 +1,1 @@
-# timer
+# Timer - project created for studies
